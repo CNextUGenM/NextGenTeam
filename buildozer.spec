@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = NextGenTeam
+title = NextGeTeam
 
 # (str) Package name
 package.name = nextgenteam
